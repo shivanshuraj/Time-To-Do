@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Time To Do</string>
+    <string name="help">Add a new task and select priority by selecting one of the colors after you enter a task
+    Priority:
+    Red: High Priority
+    Orange: Medium Priority
+    Yellow: Low Priority
+    </string>
+</resources>
